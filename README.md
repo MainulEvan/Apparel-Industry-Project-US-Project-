@@ -3,7 +3,7 @@ US Based Bookkeeping project in QBO for a 3-store apparel business in CA, coveri
 
 Comprehensive bookkeeping project for a 3-store apparel business across San Francisco, Los Angeles, and San Diego. Covers Jan–Mar 2025 with full company setup, COA, products/services, location & class tracking, detailed bank and credit card reconciliations, bills, sales, payroll, loans, depreciation, prepaid accounts, and adjusting entries to ensure accurate financial reporting.
 
-**Key Tasks Completed
+**Key Tasks Completed**
 
 Set up company profile, Chart of Accounts, and product/service list
 
